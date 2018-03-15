@@ -1,1 +1,1 @@
-# Betita
+# Práctica 1
